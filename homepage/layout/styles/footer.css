@@ -1,0 +1,15 @@
+footer {
+    background-color: rgb(213, 207, 219);
+
+}
+
+#footer_items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px, 8% 24px 8%;
+    align-items: center;
+}
+#coopyright {
+    color: #1d1d1d;
+    font-weight: 500;
+}
